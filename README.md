@@ -1,3 +1,4 @@
+[![Build Status](https://pixeldoctor.visualstudio.com/clouskills-b/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://pixeldoctor.visualstudio.com/clouskills-b/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
